@@ -8,7 +8,9 @@
     "react-router-dom": "^4.1.1",
     "react-scripts": "1.0.11"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "axios": "^0.16.2"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
